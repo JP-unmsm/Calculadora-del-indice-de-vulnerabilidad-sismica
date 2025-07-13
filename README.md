@@ -1,0 +1,1 @@
+# Calculadora-del-indice-de-vulnerabilidad-sismica
